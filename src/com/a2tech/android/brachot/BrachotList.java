@@ -456,6 +456,7 @@ public class BrachotList {
         list.put("Fruity Cheerios (General Mills Cereal)", new String[]{"Shehakol", "Borei Nefashos"});
         list.put("Fruity Pebbles (Post Cereal)", new String[]{"Mezonos", "Borei Nefashos"});
         list.put("Fudge", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Test", new String[]{"Hello", "Hi"});
         //G
 
         //H
