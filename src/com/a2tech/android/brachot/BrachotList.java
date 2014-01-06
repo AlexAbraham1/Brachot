@@ -457,6 +457,53 @@ public class BrachotList {
         list.put("Fruity Pebbles (Post Cereal)", new String[]{"Mezonos", "Borei Nefashos"});
         list.put("Fudge", new String[]{"Shehakol", "Borei Nefashos"});
         //G
+        list.put("Garlic", new String[]{"Shehakol", "No Bracha"});
+        list.put("Garlic Bread", new String[]{"Hamotzee", "Birkat Hamazon"});
+        list.put("Garlic Knots (Without K'Vias Seudah)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Garlic Knots (With K'Vias Seudah)", new String[]{"Hamotzee", "Birkat Hamazon"});
+        list.put("Gefilte Fish", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Gherkins", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Giblets", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Ginger (Fresh or Dry)", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Ginger Ale", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Ginger Bread (Without K'Vias Seudah)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Ginger Bread (With K'Vias Seudah)", new String[]{"Hamotzee", "Birkat Hamazon"});
+        list.put("Gnocchi", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Go Lean - Original (Kashi Cereal)", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Go Lean Crisp (Kashi Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Go Lean Crunch (Kashi Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Goji Berries", new String[]{"Haeitz", "Borei Nefashos"});
+        list.put("Golden Crisp (Post Cereal)", new String[]{"Mezonos or Haadama", "Borei Nefashos"});
+        list.put("Golden Grahams (General Mills Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Good Friends (Kashi Cereal)", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Goose", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Gooseberries", new String[]{"Haeitz", "Borei Nefashos"});
+        list.put("Goulash (Large Pieces)", new String[]{"Haadama on Potatoes, Shehakol on Meat", "Borei Nefashos"});
+        list.put("Goulash (Small Pieces Meat Majority)", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Goulash (Small Pieces Potatoes Majority)", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Graham Crackers (Without K'Vias Seudah)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Graham Crackers (With K'Vias Seudah)", new String[]{"Hamotzee", "Birkat Hamazon"});
+        list.put("Grape Juice", new String[]{"Hagafen", "Al Hagafen"});
+        list.put("Grape Juice Ices", new String[]{"Shehakol", "No Bracha"});
+        list.put("Grape Nuts (Post Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Grapefruit", new String[]{"Haeitz", "Borei Nefashos"});
+        list.put("Grapefruit Juice", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Grapes", new String[]{"Haeitz", "Al Haeitz"});
+        list.put("Grasshopper (Only if Kosher)", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Gravy (Meat)", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Great Grains - Cranberry Almond Crunch (Post Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Great Grains - Crunchy Pecans (Post Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Great Grains - Raisins Dates and Pecans (Post Cereal)", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Green Beans", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Green Peas", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Griddle Cake", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Grilled Cheese Sandwich", new String[]{"Hamotzee", "Birkat Hamazon"});
+        list.put("Grits", new String[]{"Mezonos", "Al Hamichya"});
+        list.put("Groats", new String[]{"Haadama", "Borei Nefashos"});
+        list.put("Guava", new String[]{"Haeitz", "Borei Nefashos"});
+        list.put("Guava Nectar", new String[]{"Shehakol", "Borei Nefashos"});
+        list.put("Gum", new String[]{"Shehakol", "No Bracha"});
+        list.put("Gumdrops", new String[]{"Shehakol", "No Bracha"});
 
         //H
 
@@ -475,7 +522,7 @@ public class BrachotList {
         //O
 
         //P
-
+        list.put("Pepper (Vegetable)", new String[]{"Haadama", "Borei Nefashos"});
         //Q
 
         //R
