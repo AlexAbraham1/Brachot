@@ -4,6 +4,8 @@ import java.util.TreeMap;
 
 /**
  * This is a class containing the list of all the foods and their brachot
+ * @author Alex Abraham
+ * @version 1.0
  */
 public class BrachotList {
 
